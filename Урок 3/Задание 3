@@ -1,0 +1,7 @@
+print('What is your name?')
+name = input()
+print('What is your surname?')
+surname = input()
+print('What is your fathername?')
+father_name = input()
+print(name, '-', surname, '-', father_name)
