@@ -1,0 +1,8 @@
+number = 726
+first = number//100
+second = number//10 % 10
+third = number % 10
+sum = first+second+third
+mult = first*second*third
+print('Сумма цифр числа', number, 'равна', sum)
+print('Произведение цифр числа', number, 'равно', mult)
